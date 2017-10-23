@@ -29,21 +29,45 @@ Links and Resources to keep organized my personal interests
 - 🎥 [Dressing ITCSS - Dani Fornells](https://www.youtube.com/watch?v=2IdI5VUfE48)
 - 🎥 [ITCSS Arquitectura de CSS - Joan Leon](https://www.youtube.com/watch?v=P6iPXgXC7HE)
 
+## Projects
+
+- 📄 [Finding ideas for side projects - Sam Jarman](https://dev.to/samjarman/finding-ideas-for-programming-side-projects)
+- 📄 [Side Project Marketing  - karllhughes, Github](https://github.com/karllhughes/side-project-marketing/blob/master/marketing-checklist.md)
+
 ## Frontend
 
+### Architecture & Patterns
 
-### PWA, Performance & Optimization
+ - 📄 [Five Tips for Working with Redux in Large Applications - AppNexus Engineering](https://techblog.appnexus.com/five-tips-for-working-with-redux-in-large-applications-89452af4fdcb)
+ - 📄 [Organize a Large React Application and Make It Scale](https://www.sitepoint.com/organize-large-react-application/)
+ - 📄 [Re-Ducks & Ducks: Modular Redux Architecture](https://github.com/alexnm/re-ducks)
+
+### Production
+
+ - 📄 [Deploy Vue.js, SSR(Vuetify) on Production with Pm2 and Nginx - KashYap Merai](https://medium.com/@kamerk22/deploy-vue-js-ssr-vuetify-on-production-with-pm2-and-nginx-ec7b5c0748a3)
+
+### PWA
+
+- 📄 [Handling client side app updates with Service Workers](https://zach.codes/handling-client-side-app-updates-with-service-workers/)
+- 📄⭐️ [The Offline Cookbook - Jake Archibald](https://developers.google.com/web/fundamentals/instant-and-offline/offline-cookbook/) (for animations check [Jake Archibald's blog](https://jakearchibald.com/2014/offline-cookbook/))
+- 📄 [The PRPL Pattern - Addy Osmani](https://developers.google.com/web/fundamentals/performance/prpl-pattern/)
+- 📄⭐️ [Treebo: A React And Preact Progressive Web App Performance Case Study - Addy Osmani](https://medium.com/dev-channel/treebo-a-react-and-preact-progressive-web-app-performance-case-study-5e4f450d5299)
+
+### Performance & Optimization
 
 - 📄 [Front-End Performance Checklist 2017 - Vitaly Friedman, Smashing Magazine](https://www.smashingmagazine.com/2016/12/front-end-performance-checklist-2017-pdf-pages/)
+- 📄 [JMPerez Blog (several posts)](https://jmperezperez.com/)
 - 📄 [Preload, Prefetch And Priorities in Chrome - Addy Osmani](https://medium.com/reloading/preload-prefetch-and-priorities-in-chrome-776165961bbf)
-- 📄⭐️ [Treebo: A React And Preact Progressive Web App Performance Case Study - Addy Osmani](https://medium.com/dev-channel/treebo-a-react-and-preact-progressive-web-app-performance-case-study-5e4f450d5299)
 
 ### Low level
 
+- [Javascript V8: Getting garbage collecion for free - ](https://v8project.blogspot.com.es/2015/08/getting-garbage-collection-for-free.html)
 - [Las 3 evaluaciones de la programación funcional - Javier Vélez](http://www.javiervelezreyes.com/las-3-evaluaciones-de-la-programacion-funcional/)
 
 
+## Pens, Fiddles, Bins...
 
+- [Color names - @meodai, Codepen](https://codepen.io/meodai/full/mEvZRx)
 
 ## Backend
 
