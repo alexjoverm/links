@@ -98,6 +98,7 @@ Links and Resources to keep organized my personal interests
 
 ## Jobs
 - [Awesome remote job](https://github.com/lukasz-madon/awesome-remote-job)
+- [Remote jobs (friendly and fully)](https://github.com/remoteintech/remote-jobs)
 
 ## Interviews
 
