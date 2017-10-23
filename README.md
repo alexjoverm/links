@@ -29,6 +29,11 @@ Links and Resources to keep organized my personal interests
 - 🎥 [Dressing ITCSS - Dani Fornells](https://www.youtube.com/watch?v=2IdI5VUfE48)
 - 🎥 [ITCSS Arquitectura de CSS - Joan Leon](https://www.youtube.com/watch?v=P6iPXgXC7HE)
 
+## Culture
+
+- 🎥 [Spotify Engineering Culture - Part 1](https://labs.spotify.com/2014/03/27/spotify-engineering-culture-part-1/)
+- 🎥 [Spotify Engineering Culture - Part 2](https://labs.spotify.com/2014/03/27/spotify-engineering-culture-part-2/)
+
 ## Projects
 
 - 📄 [Finding ideas for side projects - Sam Jarman](https://dev.to/samjarman/finding-ideas-for-programming-side-projects)
@@ -44,7 +49,7 @@ Links and Resources to keep organized my personal interests
 
  - 📄 [Clean Code Javascript - ryanmcdermott, GH](https://github.com/ryanmcdermott/clean-code-javascript)
  - 📄 [Five Tips for Working with Redux in Large Applications - AppNexus Engineering](https://techblog.appnexus.com/five-tips-for-working-with-redux-in-large-applications-89452af4fdcb)
- - 📄 [Organize a Large React Application and Make It Scale](https://www.sitepoint.com/organize-large-react-application/)
+ - 📄 [Organize a Large React Application and Make It Scale - Jack Franklin](https://www.sitepoint.com/organize-large-react-application/)
  - 📄 [Re-Ducks & Ducks: Modular Redux Architecture](https://github.com/alexnm/re-ducks)
 
 ### Production
@@ -53,7 +58,7 @@ Links and Resources to keep organized my personal interests
 
 ### Progressive Web Apps
 
-- 📄 [Handling client side app updates with Service Workers](https://zach.codes/handling-client-side-app-updates-with-service-workers/)
+- 📄 [Handling client side app updates with Service Workers - @zachcodes](https://zach.codes/handling-client-side-app-updates-with-service-workers/)
 - 📄⭐️ [The Offline Cookbook - Jake Archibald](https://developers.google.com/web/fundamentals/instant-and-offline/offline-cookbook/) (for animations check [Jake Archibald's blog](https://jakearchibald.com/2014/offline-cookbook/))
 - 📄 [The PRPL Pattern - Addy Osmani](https://developers.google.com/web/fundamentals/performance/prpl-pattern/)
 - 📄⭐️ [Treebo: A React And Preact Progressive Web App Performance Case Study - Addy Osmani](https://medium.com/dev-channel/treebo-a-react-and-preact-progressive-web-app-performance-case-study-5e4f450d5299)
