@@ -96,6 +96,9 @@ Links and Resources to keep organized my personal interests
 - 📄 [Clean Architecture in NodeJS - Siro Ramírez](https://solidgeargroup.com/clean-architecture-in-nodejs)
 - 📄 [Moving a Node.js app from PaaS to Kubernetes - Rising Stack](https://blog.risingstack.com/moving-node-js-from-paas-to-kubernetes-tutorial/)
 
+## Jobs
+- [Awesome remote job](https://github.com/lukasz-madon/awesome-remote-job)
+
 ## Interviews
 
 - 📄 [Tech Interview Handbook - @yangshun, GH](https://github.com/yangshun/tech-interview-handbook)
