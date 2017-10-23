@@ -104,5 +104,5 @@ Links and Resources to keep organized my personal interests
 ## Psicology
 
 - 🎥 [La felicidad no tiene nada que ver con esto - Ramón Nogueras](https://www.youtube.com/watch?v=5XsKHEunOXs&feature=youtu.be)
-
+- 📄 [Confessions Of An Impostor - Denys Mishunov](https://www.smashingmagazine.com/2017/10/confessions-impostor-syndrome/)
 
