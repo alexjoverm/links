@@ -20,6 +20,13 @@ Links and Resources to keep organized my personal interests
 - 🎥 [How Well Do You Know the Web? - Jake Archibald, Paul Lewis, Google I/O 2017](https://www.youtube.com/watch?v=vAgKZoGIvqs)
 - 🎥 [Creating UX that "Just Feels Right" with Progressive Web Apps - Owen Campbell-Moore, Google I/O 2017](https://www.youtube.com/watch?v=mmq-KVeO-uU)
 - 🎥 [Javascript patterns for 2017 - Scott Allen](https://www.youtube.com/watch?v=hO7mzO83N1Q)
+- 🎥 [Mastering Chaos: A Netflix guide to microservices - Josh Evans](https://www.youtube.com/watch?v=CZ3wIuvmHeM)
+- 🎥 [JavaScript engines: how do they even? - Franziska Hinkelmann, JSConf EU 2017](https://www.youtube.com/watch?v=p-iiEDtpy6I)
+- 🎥 [Organizing CSS with OOCSS, SMACSS, and BEM - Matt Stauffer](https://www.youtube.com/watch?v=IKFq2cSbQ4Q)
+- 📄 [When to use @extend; when to use a mixin - CSS Wizardry](https://csswizardry.com/2014/11/when-to-use-extend-when-to-use-a-mixin/)
+- 📄 [BEMIT: Taking the BEM Naming Convention a Step Further - CSS Wizardry](https://csswizardry.com/2015/08/bemit-taking-the-bem-naming-convention-a-step-further/)
+- 🎥 [Dressing ITCSS - Dani Fornells](https://www.youtube.com/watch?v=2IdI5VUfE48)
+- 🎥 [ITCSS Arquitectura de CSS - Joan Leon](https://www.youtube.com/watch?v=P6iPXgXC7HE)
 
 ## Frontend
 
@@ -29,9 +36,11 @@ Links and Resources to keep organized my personal interests
 - 📄 [Front-End Performance Checklist 2017 - Vitaly Friedman, Smashing Magazine](https://www.smashingmagazine.com/2016/12/front-end-performance-checklist-2017-pdf-pages/)
 - 📄 [Preload, Prefetch And Priorities in Chrome - Addy Osmani](https://medium.com/reloading/preload-prefetch-and-priorities-in-chrome-776165961bbf)
 - 📄⭐️ [Treebo: A React And Preact Progressive Web App Performance Case Study - Addy Osmani](https://medium.com/dev-channel/treebo-a-react-and-preact-progressive-web-app-performance-case-study-5e4f450d5299)
-- 
 
-## Building and Tooling
+## CSS
+
+
+
 
 ## Backend
 
