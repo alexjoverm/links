@@ -24,7 +24,6 @@ Links and Resources to keep organized my personal interests
 - 🎥 [Mastering Chaos: A Netflix guide to microservices - Josh Evans](https://www.youtube.com/watch?v=CZ3wIuvmHeM)
 - 🎥 [JavaScript engines: how do they even? - Franziska Hinkelmann, JSConf EU 2017](https://www.youtube.com/watch?v=p-iiEDtpy6I)
 - 🎥 [Organizing CSS with OOCSS, SMACSS, and BEM - Matt Stauffer](https://www.youtube.com/watch?v=IKFq2cSbQ4Q)
-- 📄 [When to use @extend; when to use a mixin - CSS Wizardry](https://csswizardry.com/2014/11/when-to-use-extend-when-to-use-a-mixin/)
 - 📄 [BEMIT: Taking the BEM Naming Convention a Step Further - CSS Wizardry](https://csswizardry.com/2015/08/bemit-taking-the-bem-naming-convention-a-step-further/)
 - 🎥 [Dressing ITCSS - Dani Fornells](https://www.youtube.com/watch?v=2IdI5VUfE48)
 - 🎥 [ITCSS Arquitectura de CSS - Joan Leon](https://www.youtube.com/watch?v=P6iPXgXC7HE)
