@@ -32,12 +32,17 @@ Links and Resources to keep organized my personal interests
 ## Projects
 
 - 📄 [Finding ideas for side projects - Sam Jarman](https://dev.to/samjarman/finding-ideas-for-programming-side-projects)
-- 📄 [Side Project Marketing  - karllhughes, Github](https://github.com/karllhughes/side-project-marketing/blob/master/marketing-checklist.md)
+- 📄 [Side Project Marketing  - karllhughes, GH](https://github.com/karllhughes/side-project-marketing/blob/master/marketing-checklist.md)
+
+## Algorithms
+
+- 🌎 [Sorting.at: visual rep with big O notations](http://sorting.at/)
 
 ## Frontend
 
-### Architecture & Patterns
+### Architecture, Patterns, Clean Code...
 
+ - 📄 [Clean Code Javascript - ryanmcdermott, GH](https://github.com/ryanmcdermott/clean-code-javascript)
  - 📄 [Five Tips for Working with Redux in Large Applications - AppNexus Engineering](https://techblog.appnexus.com/five-tips-for-working-with-redux-in-large-applications-89452af4fdcb)
  - 📄 [Organize a Large React Application and Make It Scale](https://www.sitepoint.com/organize-large-react-application/)
  - 📄 [Re-Ducks & Ducks: Modular Redux Architecture](https://github.com/alexnm/re-ducks)
@@ -46,7 +51,7 @@ Links and Resources to keep organized my personal interests
 
  - 📄 [Deploy Vue.js, SSR(Vuetify) on Production with Pm2 and Nginx - KashYap Merai](https://medium.com/@kamerk22/deploy-vue-js-ssr-vuetify-on-production-with-pm2-and-nginx-ec7b5c0748a3)
 
-### PWA
+### Progressive Web Apps
 
 - 📄 [Handling client side app updates with Service Workers](https://zach.codes/handling-client-side-app-updates-with-service-workers/)
 - 📄⭐️ [The Offline Cookbook - Jake Archibald](https://developers.google.com/web/fundamentals/instant-and-offline/offline-cookbook/) (for animations check [Jake Archibald's blog](https://jakearchibald.com/2014/offline-cookbook/))
@@ -61,8 +66,8 @@ Links and Resources to keep organized my personal interests
 
 ### Low level
 
-- [Javascript V8: Getting garbage collecion for free - ](https://v8project.blogspot.com.es/2015/08/getting-garbage-collection-for-free.html)
-- [Las 3 evaluaciones de la programación funcional - Javier Vélez](http://www.javiervelezreyes.com/las-3-evaluaciones-de-la-programacion-funcional/)
+- 📄 [Javascript V8: Getting garbage collecion for free](https://v8project.blogspot.com.es/2015/08/getting-garbage-collection-for-free.html)
+- 📄 [Las 3 evaluaciones de la programación funcional - Javier Vélez](http://www.javiervelezreyes.com/las-3-evaluaciones-de-la-programacion-funcional/)
 
 
 ## Pens, Fiddles, Bins...
@@ -71,11 +76,26 @@ Links and Resources to keep organized my personal interests
 
 ## Backend
 
+### Architecture, Patterns, Clean Code...
+
+- 📄 [Domain Driven Design (CQRS, Bounded Context, Value Object...) - Martin Fowler](https://martinfowler.com/tags/domain%20driven%20design.html)
+- 📄 [Event Sourcing - Microsoft Docs](https://docs.microsoft.com/en-us/azure/architecture/patterns/event-sourcing)
+- 📄 [Pattern Overview: CQRS and Event Sourcing - Matthew Jones](https://www.exceptionnotfound.net/pattern-overview-command-query-responsibility-segregation-and-event-sourcing/)
+
+### Microservices, Serverless
+
+- 📄 [Serverless Architectures - Mike Roberts](https://martinfowler.com/articles/serverless.html)
+- 📄 [Designing Microservices architecture for failure - Rising Stack](https://blog.risingstack.com/designing-microservices-architecture-for-failure/)
+
 ### NodeJS
 
 - 📄 [Clean Architecture in NodeJS - Siro Ramírez](https://solidgeargroup.com/clean-architecture-in-nodejs)
+- 📄 [Moving a Node.js app from PaaS to Kubernetes - Rising Stack](https://blog.risingstack.com/moving-node-js-from-paas-to-kubernetes-tutorial/)
 
+## Interviews
 
+- 📄 [Tech Interview Handbook - @yangshun, GH](https://github.com/yangshun/tech-interview-handbook)
+- 📄 [Frontend Development Interviews - @IgnaciodeNuevo, GH](https://github.com/IgnaciodeNuevo/frontend-development-interviews#questions-to-know-the-company-better)
 
 ## Psicology
 
