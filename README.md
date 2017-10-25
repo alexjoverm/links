@@ -105,8 +105,15 @@ Links and Resources to keep organized my personal interests
 - 📄 [Tech Interview Handbook - @yangshun, GH](https://github.com/yangshun/tech-interview-handbook)
 - 📄 [Frontend Development Interviews - @IgnaciodeNuevo, GH](https://github.com/IgnaciodeNuevo/frontend-development-interviews#questions-to-know-the-company-better)
 
+# Work wellness
+
+- 📄 [We fired our top talent. Best decision we ever made](https://medium.freecodecamp.org/we-fired-our-top-talent-best-decision-we-ever-made-4c0a99728fde)
+- 📄 [Confessions Of An Impostor - Denys Mishunov](https://www.smashingmagazine.com/2017/10/confessions-impostor-syndrome/)
+
 ## Psicology
 
+
 - 🎥 [La felicidad no tiene nada que ver con esto - Ramón Nogueras](https://www.youtube.com/watch?v=5XsKHEunOXs&feature=youtu.be)
-- 📄 [Confessions Of An Impostor - Denys Mishunov](https://www.smashingmagazine.com/2017/10/confessions-impostor-syndrome/)
+
+
 
