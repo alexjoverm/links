@@ -64,6 +64,7 @@ Links and Resources to keep organized my personal interests
 
 ### Performance & Optimization
 
+- 🎥 [Fast By Default: Modern Loading Best Practices (Chrome Dev Summit 2017) - Addy Osmani](https://www.youtube.com/watch?v=_srJ7eHS3IM)
 - 📄 [Front-End Performance Checklist 2017 - Vitaly Friedman, Smashing Magazine](https://www.smashingmagazine.com/2016/12/front-end-performance-checklist-2017-pdf-pages/)
 - 📄 [JMPerez Blog (several posts)](https://jmperezperez.com/)
 - 📄 [Preload, Prefetch And Priorities in Chrome - Addy Osmani](https://medium.com/reloading/preload-prefetch-and-priorities-in-chrome-776165961bbf)
