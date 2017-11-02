@@ -10,7 +10,6 @@ Links and Resources to keep organized my personal interests
 - 📄 [Killing Old Service Workers for the Greater Good - Antonio Calapez](https://blog.hackages.io/migrating-a-service-worker-from-an-old-domain-to-your-new-domain-69236418051c)
 - 📄 [Web Components - MDN](https://developer.mozilla.org/en-US/docs/Web/Web_Components)
 - 📄 [A Progressive Roadmap for your Progressive Web App - Jason Grigsby](https://cloudfour.com/thinks/a-progressive-roadmap-for-your-progressive-web-app/)
-- 🎥 [Testing Vue components with Jest - Roman Kuba, VueConf 2017](https://www.youtube.com/watch?v=pqp0PsPBO_0)
 - 🎥 [CSS and the first meaningful paint - Patrick Hamann, CSSconf EU 2017](https://www.youtube.com/watch?v=4pQ2byAoIX0)
 - 🎥 [The Browser Hackers Guide To Instantly Loading Everything - Addy Osmani, JSConf EU 2017](https://www.youtube.com/watch?v=7vUs5yOuv-o)
 - 🎥 [Production Progressive Web Apps With JavaScript Frameworks - Addy Osmani, Google I/O 2017](https://www.youtube.com/watch?v=aCMbSyngXB4)
@@ -68,6 +67,10 @@ Links and Resources to keep organized my personal interests
 - 📄 [JMPerez Blog (several posts)](https://jmperezperez.com/)
 - 🎥 [Caching & CDNs - Front End Center](https://www.youtube.com/watch?v=_QeNLrkPvdI)
 - 📄 [Preload, Prefetch And Priorities in Chrome - Addy Osmani](https://medium.com/reloading/preload-prefetch-and-priorities-in-chrome-776165961bbf)
+
+### Frameworks
+
+- 🎥 [Testing Vue components with Jest - Roman Kuba, VueConf 2017](https://www.youtube.com/watch?v=pqp0PsPBO_0)
 
 ### Low level
 
