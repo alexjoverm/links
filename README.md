@@ -116,13 +116,14 @@ Links and Resources to keep organized my personal interests
 
 ## Psicology
 
-- 🌎 [Chopra: meditations](http://www.chopra.com/articles/guided-meditations)
-- 🌎 [Soundrown: ambient sounds](http://soundrown.com/)
+- 🌎 [Desansiedad: Articulos y videos para tratar trastornos de ansiedad](http://www.desansiedad.com/)
+- 🎵 [Soundrown: ambient sounds](http://soundrown.com/)
+- 🎵 [Rainy mood](http://rainymood.com/)
 - 🎥 [Yoga With Adriene](https://www.youtube.com/user/yogawithadriene)
 - 🌎 [Pacifica (app): Daily tools for stress and anxiety alongside a supportive community](https://www.thinkpacifica.com)
 - 🌎 [Calm (app)](https://www.calm.com/)
-- 🌎 [Desansiedad: Articulos y videos para tratar trastornos de ansiedad](http://www.desansiedad.com/)
 - 🌎 [The quiet Place](http://thequietplaceproject.com/thequietplace)
+- 🌎 [Chopra: meditations](http://www.chopra.com/articles/guided-meditations)
 - 🎥 [La felicidad no tiene nada que ver con esto - Ramón Nogueras](https://www.youtube.com/watch?v=5XsKHEunOXs&feature=youtu.be)
 
 
