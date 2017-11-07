@@ -42,6 +42,10 @@ Links and Resources to keep organized my personal interests
 
 ## Frontend
 
+### Functional Programming
+
+- 📄 [Curry (kutyel)](https://gist.github.com/kutyel/818937bda1bf1f513ff63e517342d194)
+
 ### Architecture, Patterns, Clean Code...
 
  - 📄 [Clean Code Javascript - ryanmcdermott, GH](https://github.com/ryanmcdermott/clean-code-javascript)
