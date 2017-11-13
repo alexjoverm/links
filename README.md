@@ -81,6 +81,9 @@ Links and Resources to keep organized my personal interests
 - 📄 [Javascript V8: Getting garbage collecion for free](https://v8project.blogspot.com.es/2015/08/getting-garbage-collection-for-free.html)
 - 📄 [Las 3 evaluaciones de la programación funcional - Javier Vélez](http://www.javiervelezreyes.com/las-3-evaluaciones-de-la-programacion-funcional/)
 
+## Tools
+
+- [Shortcuts.design](http://shortcuts.design/index.html)
 
 ## Pens, Fiddles, Bins...
 
