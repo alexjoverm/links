@@ -85,6 +85,10 @@ Links and Resources to keep organized my personal interests
 
 - [Shortcuts.design](http://shortcuts.design/index.html)
 
+## Design
+
+- 📄 [Optical effects](https://medium.muz.li/optical-effects-9fca82b4cd9a)
+
 ## Pens, Fiddles, Bins...
 
 - [Color names - @meodai, Codepen](https://codepen.io/meodai/full/mEvZRx)
