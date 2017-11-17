@@ -13,29 +13,14 @@ Links and Resources to keep organized my personal interests
 - 📄 [A Progressive Roadmap for your Progressive Web App - Jason Grigsby](https://cloudfour.com/thinks/a-progressive-roadmap-for-your-progressive-web-app/)
 - 🎥 [CSS and the first meaningful paint - Patrick Hamann, CSSconf EU 2017](https://www.youtube.com/watch?v=4pQ2byAoIX0)
 - 🎥 [The Browser Hackers Guide To Instantly Loading Everything - Addy Osmani, JSConf EU 2017](https://www.youtube.com/watch?v=7vUs5yOuv-o)
-- 🎥 [Production Progressive Web Apps With JavaScript Frameworks - Addy Osmani, Google I/O 2017](https://www.youtube.com/watch?v=aCMbSyngXB4)
+
 - 🎥 [Frameworks and Tools for Progressive Web Apps - Stephen Fluin, GDD Europe 2017](https://www.youtube.com/watch?v=zuGE3eFQD9I)
-- 🎥 [Instant Loading: Building offline-first Progressive Web Apps - Jake Archibald, Google I/O 2016](https://www.youtube.com/watch?v=cmGr0RszHc8)
-- 🎥 [DevTools: State of union - Paul Irish, Google I/O 2017](https://www.youtube.com/watch?v=PjjlwAvV8Jg)
-- 🎥 [How Well Do You Know the Web? - Jake Archibald, Paul Lewis, Google I/O 2017](https://www.youtube.com/watch?v=vAgKZoGIvqs)
-- 🎥 [Creating UX that "Just Feels Right" with Progressive Web Apps - Owen Campbell-Moore, Google I/O 2017](https://www.youtube.com/watch?v=mmq-KVeO-uU)
 - 🎥 [Javascript patterns for 2017 - Scott Allen](https://www.youtube.com/watch?v=hO7mzO83N1Q)
 - 🎥 [Mastering Chaos: A Netflix guide to microservices - Josh Evans](https://www.youtube.com/watch?v=CZ3wIuvmHeM)
 - 🎥 [JavaScript engines: how do they even? - Franziska Hinkelmann, JSConf EU 2017](https://www.youtube.com/watch?v=p-iiEDtpy6I)
-- 🎥 [Organizing CSS with OOCSS, SMACSS, and BEM - Matt Stauffer](https://www.youtube.com/watch?v=IKFq2cSbQ4Q)
 - 📄 [BEMIT: Taking the BEM Naming Convention a Step Further - CSS Wizardry](https://csswizardry.com/2015/08/bemit-taking-the-bem-naming-convention-a-step-further/)
-- 🎥 [Dressing ITCSS - Dani Fornells](https://www.youtube.com/watch?v=2IdI5VUfE48)
 - 🎥 [ITCSS Arquitectura de CSS - Joan Leon](https://www.youtube.com/watch?v=P6iPXgXC7HE)
 
-## Culture
-
-- 🎥 [Spotify Engineering Culture - Part 1](https://labs.spotify.com/2014/03/27/spotify-engineering-culture-part-1/)
-- 🎥 [Spotify Engineering Culture - Part 2](https://labs.spotify.com/2014/03/27/spotify-engineering-culture-part-2/)
-
-## Projects
-
-- 📄 [Finding ideas for side projects - Sam Jarman](https://dev.to/samjarman/finding-ideas-for-programming-side-projects)
-- 📄 [Side Project Marketing  - karllhughes, GH](https://github.com/karllhughes/side-project-marketing/blob/master/marketing-checklist.md)
 
 ## Algorithms
 
@@ -60,10 +45,11 @@ Links and Resources to keep organized my personal interests
 
 ### Progressive Web Apps
 
-- 📄 [Handling client side app updates with Service Workers - @zachcodes](https://zach.codes/handling-client-side-app-updates-with-service-workers/)
-- 📄⭐️ [The Offline Cookbook - Jake Archibald](https://developers.google.com/web/fundamentals/instant-and-offline/offline-cookbook/) (for animations check [Jake Archibald's blog](https://jakearchibald.com/2014/offline-cookbook/))
-- 📄 [The PRPL Pattern - Addy Osmani](https://developers.google.com/web/fundamentals/performance/prpl-pattern/)
 - 📄⭐️ [Treebo: A React And Preact Progressive Web App Performance Case Study - Addy Osmani](https://medium.com/dev-channel/treebo-a-react-and-preact-progressive-web-app-performance-case-study-5e4f450d5299)
+- 📄⭐️ [The Offline Cookbook - Jake Archibald](https://developers.google.com/web/fundamentals/instant-and-offline/offline-cookbook/) (for animations check [Jake Archibald's blog](https://jakearchibald.com/2014/offline-cookbook/))
+- 📄 [Handling client side app updates with Service Workers - @zachcodes](https://zach.codes/handling-client-side-app-updates-with-service-workers/)
+- 📄 [The PRPL Pattern - Addy Osmani](https://developers.google.com/web/fundamentals/performance/prpl-pattern/)
+- 🎥 [Production Progressive Web Apps With JavaScript Frameworks - Addy Osmani, Google I/O 2017](https://www.youtube.com/watch?v=aCMbSyngXB4)
 
 ### Performance & Optimization
 
@@ -82,35 +68,40 @@ Links and Resources to keep organized my personal interests
 - 📄 [Javascript V8: Getting garbage collecion for free](https://v8project.blogspot.com.es/2015/08/getting-garbage-collection-for-free.html)
 - 📄 [Las 3 evaluaciones de la programación funcional - Javier Vélez](http://www.javiervelezreyes.com/las-3-evaluaciones-de-la-programacion-funcional/)
 
-## Tools
+## NodeJS
 
-- [Shortcuts.design](http://shortcuts.design/index.html)
+- 📄 [Node.js Best Practices](https://github.com/i0natan/nodebestpractices)
+- 📄 [Clean Architecture in NodeJS - Siro Ramírez](https://solidgeargroup.com/clean-architecture-in-nodejs)
+- 📄 [Moving a Node.js app from PaaS to Kubernetes - Rising Stack](https://blog.risingstack.com/moving-node-js-from-paas-to-kubernetes-tutorial/)
 
-## Design
+## Backend
 
+- 📄 [Domain Driven Design (CQRS, Bounded Context, Value Object...) - Martin Fowler](https://martinfowler.com/tags/domain%20driven%20design.html)
+- 📄 [Event Sourcing - Microsoft Docs](https://docs.microsoft.com/en-us/azure/architecture/patterns/event-sourcing)
+- 📄 [Pattern Overview: CQRS and Event Sourcing - Matthew Jones](https://www.exceptionnotfound.net/pattern-overview-command-query-responsibility-segregation-and-event-sourcing/)
+- 📄 [Serverless Architectures - Mike Roberts](https://martinfowler.com/articles/serverless.html)
+- 📄 [Designing Microservices architecture for failure - Rising Stack](https://blog.risingstack.com/designing-microservices-architecture-for-failure/)
+
+## CSS, Design
+
+- 🎥 [Dressing ITCSS - Dani Fornells](https://www.youtube.com/watch?v=2IdI5VUfE48)
 - 📄 [Optical effects](https://medium.muz.li/optical-effects-9fca82b4cd9a)
+- [Shortcuts.design](http://shortcuts.design/index.html)
 
 ## Pens, Fiddles, Bins...
 
 - [Color names - @meodai, Codepen](https://codepen.io/meodai/full/mEvZRx)
 
-## Backend
+## Culture
 
-### Architecture, Patterns, Clean Code...
+- 🎥 [Spotify Engineering Culture - Part 1](https://labs.spotify.com/2014/03/27/spotify-engineering-culture-part-1/)
+- 🎥 [Spotify Engineering Culture - Part 2](https://labs.spotify.com/2014/03/27/spotify-engineering-culture-part-2/)
 
-- 📄 [Domain Driven Design (CQRS, Bounded Context, Value Object...) - Martin Fowler](https://martinfowler.com/tags/domain%20driven%20design.html)
-- 📄 [Event Sourcing - Microsoft Docs](https://docs.microsoft.com/en-us/azure/architecture/patterns/event-sourcing)
-- 📄 [Pattern Overview: CQRS and Event Sourcing - Matthew Jones](https://www.exceptionnotfound.net/pattern-overview-command-query-responsibility-segregation-and-event-sourcing/)
+## Projects
 
-### Microservices, Serverless
+- 📄 [Finding ideas for side projects - Sam Jarman](https://dev.to/samjarman/finding-ideas-for-programming-side-projects)
+- 📄 [Side Project Marketing  - karllhughes, GH](https://github.com/karllhughes/side-project-marketing/blob/master/marketing-checklist.md)
 
-- 📄 [Serverless Architectures - Mike Roberts](https://martinfowler.com/articles/serverless.html)
-- 📄 [Designing Microservices architecture for failure - Rising Stack](https://blog.risingstack.com/designing-microservices-architecture-for-failure/)
-
-### NodeJS
-
-- 📄 [Clean Architecture in NodeJS - Siro Ramírez](https://solidgeargroup.com/clean-architecture-in-nodejs)
-- 📄 [Moving a Node.js app from PaaS to Kubernetes - Rising Stack](https://blog.risingstack.com/moving-node-js-from-paas-to-kubernetes-tutorial/)
 
 ## Jobs
 - [Awesome remote job](https://github.com/lukasz-madon/awesome-remote-job)
