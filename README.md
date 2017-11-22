@@ -102,6 +102,9 @@ Links and Resources to keep organized my personal interests
 - 📄 [Finding ideas for side projects - Sam Jarman](https://dev.to/samjarman/finding-ideas-for-programming-side-projects)
 - 📄 [Side Project Marketing  - karllhughes, GH](https://github.com/karllhughes/side-project-marketing/blob/master/marketing-checklist.md)
 
+## APIs
+
+- [FOAAS - Fuck Off As A Service](https://www.foaas.com/)
 
 ## Jobs
 - [Awesome remote job](https://github.com/lukasz-madon/awesome-remote-job)
