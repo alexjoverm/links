@@ -38,6 +38,7 @@ Links and Resources to keep organized my personal interests
  - 📄 [Five Tips for Working with Redux in Large Applications - AppNexus Engineering](https://techblog.appnexus.com/five-tips-for-working-with-redux-in-large-applications-89452af4fdcb)
  - 📄 [Organize a Large React Application and Make It Scale - Jack Franklin](https://www.sitepoint.com/organize-large-react-application/)
  - 📄 [Re-Ducks & Ducks: Modular Redux Architecture](https://github.com/alexnm/re-ducks)
+ - 📄 [Reset the state of Redux Store - Dan Abramov](https://stackoverflow.com/questions/35622588/how-to-reset-the-state-of-a-redux-store/35641992#35641992)
 
 ### Production
 
