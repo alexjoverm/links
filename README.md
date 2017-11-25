@@ -6,6 +6,7 @@ Links and Resources to keep organized my personal interests
 
 ## To Read/Watch
 
+- [How to perform during life high spikes](https://twitter.com/cristinafsanz/status/932160488774995973)
 - 📄 [The Cost of JavaScript - Addy Osmani](https://medium.com/dev-channel/the-cost-of-javascript-84009f51e99e)
 - 📄 [Deploying ES2015+ Code in Production Today - Philip Walton](https://philipwalton.com/articles/deploying-es2015-code-in-production-today/)
 - 📄 [Killing Old Service Workers for the Greater Good - Antonio Calapez](https://blog.hackages.io/migrating-a-service-worker-from-an-old-domain-to-your-new-domain-69236418051c)
