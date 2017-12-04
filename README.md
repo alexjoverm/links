@@ -29,8 +29,9 @@ Links and Resources to keep organized my personal interests
 
 ## Frontend
 
-### Functional Programming
+### JavaScript
 
+- 📄 [The Modern JavaScript Tutorial](https://javascript.info/)
 - 📄 [Curry (kutyel)](https://gist.github.com/kutyel/818937bda1bf1f513ff63e517342d194)
 
 ### Architecture, Patterns, Clean Code...
