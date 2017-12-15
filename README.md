@@ -62,9 +62,17 @@ Links and Resources to keep organized my personal interests
 - 🎥 [Caching & CDNs - Front End Center](https://www.youtube.com/watch?v=_QeNLrkPvdI)
 - 📄 [Preload, Prefetch And Priorities in Chrome - Addy Osmani](https://medium.com/reloading/preload-prefetch-and-priorities-in-chrome-776165961bbf)
 
-### Frameworks
+### Testing
 
 - 🎥 [Testing Vue components with Jest - Roman Kuba, VueConf 2017](https://www.youtube.com/watch?v=pqp0PsPBO_0)
+- 📄 [Codeship’s Philosophical Approach to Frontend Testing](https://blog.codeship.com/codeships-philosophical-approach-to-frontend-testing/)
+
+## CSS, Design
+
+- [Tailwind CSS](https://tailwindcss.com/docs/what-is-tailwind/)
+- 🎥 [Dressing ITCSS - Dani Fornells](https://www.youtube.com/watch?v=2IdI5VUfE48)
+- 📄 [Optical effects](https://medium.muz.li/optical-effects-9fca82b4cd9a)
+- [Shortcuts.design](http://shortcuts.design/index.html)
 
 ### Low level
 
@@ -84,12 +92,6 @@ Links and Resources to keep organized my personal interests
 - 📄 [Pattern Overview: CQRS and Event Sourcing - Matthew Jones](https://www.exceptionnotfound.net/pattern-overview-command-query-responsibility-segregation-and-event-sourcing/)
 - 📄 [Serverless Architectures - Mike Roberts](https://martinfowler.com/articles/serverless.html)
 - 📄 [Designing Microservices architecture for failure - Rising Stack](https://blog.risingstack.com/designing-microservices-architecture-for-failure/)
-
-## CSS, Design
-
-- 🎥 [Dressing ITCSS - Dani Fornells](https://www.youtube.com/watch?v=2IdI5VUfE48)
-- 📄 [Optical effects](https://medium.muz.li/optical-effects-9fca82b4cd9a)
-- [Shortcuts.design](http://shortcuts.design/index.html)
 
 ## Pens, Fiddles, Bins...
 
