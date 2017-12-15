@@ -7,21 +7,10 @@ Links and Resources to keep organized my personal interests
 ## To Read/Watch
 
 - [How to perform during life high spikes](https://twitter.com/cristinafsanz/status/932160488774995973)
-- 📄 [The Cost of JavaScript - Addy Osmani](https://medium.com/dev-channel/the-cost-of-javascript-84009f51e99e)
-- 📄 [Deploying ES2015+ Code in Production Today - Philip Walton](https://philipwalton.com/articles/deploying-es2015-code-in-production-today/)
-- 📄 [Killing Old Service Workers for the Greater Good - Antonio Calapez](https://blog.hackages.io/migrating-a-service-worker-from-an-old-domain-to-your-new-domain-69236418051c)
-- 📄 [Web Components - MDN](https://developer.mozilla.org/en-US/docs/Web/Web_Components)
-- 📄 [A Progressive Roadmap for your Progressive Web App - Jason Grigsby](https://cloudfour.com/thinks/a-progressive-roadmap-for-your-progressive-web-app/)
 - 🎥 [CSS and the first meaningful paint - Patrick Hamann, CSSconf EU 2017](https://www.youtube.com/watch?v=4pQ2byAoIX0)
 - 🎥 [The Browser Hackers Guide To Instantly Loading Everything - Addy Osmani, JSConf EU 2017](https://www.youtube.com/watch?v=7vUs5yOuv-o)
-
-- 🎥 [Frameworks and Tools for Progressive Web Apps - Stephen Fluin, GDD Europe 2017](https://www.youtube.com/watch?v=zuGE3eFQD9I)
-- 🎥 [Javascript patterns for 2017 - Scott Allen](https://www.youtube.com/watch?v=hO7mzO83N1Q)
-- 🎥 [Mastering Chaos: A Netflix guide to microservices - Josh Evans](https://www.youtube.com/watch?v=CZ3wIuvmHeM)
 - 🎥 [JavaScript engines: how do they even? - Franziska Hinkelmann, JSConf EU 2017](https://www.youtube.com/watch?v=p-iiEDtpy6I)
 - 📄 [BEMIT: Taking the BEM Naming Convention a Step Further - CSS Wizardry](https://csswizardry.com/2015/08/bemit-taking-the-bem-naming-convention-a-step-further/)
-- 🎥 [ITCSS Arquitectura de CSS - Joan Leon](https://www.youtube.com/watch?v=P6iPXgXC7HE)
-
 
 ## Algorithms
 
@@ -33,6 +22,7 @@ Links and Resources to keep organized my personal interests
 
 - 📄 [The Modern JavaScript Tutorial](https://javascript.info/)
 - 📄 [Curry (kutyel)](https://gist.github.com/kutyel/818937bda1bf1f513ff63e517342d194)
+- 📄 [Deploying ES2015+ Code in Production Today - Philip Walton](https://philipwalton.com/articles/deploying-es2015-code-in-production-today/)
 
 ### Architecture, Patterns, Clean Code...
 
@@ -46,16 +36,16 @@ Links and Resources to keep organized my personal interests
 
  - 📄 [Deploy Vue.js, SSR(Vuetify) on Production with Pm2 and Nginx - KashYap Merai](https://medium.com/@kamerk22/deploy-vue-js-ssr-vuetify-on-production-with-pm2-and-nginx-ec7b5c0748a3)
 
-### Progressive Web Apps
+
+### Progressive Web Apps, Performance & Optimization
 
 - 📄⭐️ [Treebo: A React And Preact Progressive Web App Performance Case Study - Addy Osmani](https://medium.com/dev-channel/treebo-a-react-and-preact-progressive-web-app-performance-case-study-5e4f450d5299)
 - 📄⭐️ [The Offline Cookbook - Jake Archibald](https://developers.google.com/web/fundamentals/instant-and-offline/offline-cookbook/) (for animations check [Jake Archibald's blog](https://jakearchibald.com/2014/offline-cookbook/))
 - 📄 [Handling client side app updates with Service Workers - @zachcodes](https://zach.codes/handling-client-side-app-updates-with-service-workers/)
 - 📄 [The PRPL Pattern - Addy Osmani](https://developers.google.com/web/fundamentals/performance/prpl-pattern/)
 - 🎥 [Production Progressive Web Apps With JavaScript Frameworks - Addy Osmani, Google I/O 2017](https://www.youtube.com/watch?v=aCMbSyngXB4)
-
-### Performance & Optimization
-
+- 📄 [The Cost of JavaScript - Addy Osmani](https://medium.com/dev-channel/the-cost-of-javascript-84009f51e99e)
+- 📄 [Killing Old Service Workers for the Greater Good - Antonio Calapez](https://blog.hackages.io/migrating-a-service-worker-from-an-old-domain-to-your-new-domain-69236418051c)
 - 🎥 [Fast By Default: Modern Loading Best Practices (Chrome Dev Summit 2017) - Addy Osmani](https://www.youtube.com/watch?v=_srJ7eHS3IM)
 - 📄 [Front-End Performance Checklist 2017 - Vitaly Friedman, Smashing Magazine](https://www.smashingmagazine.com/2016/12/front-end-performance-checklist-2017-pdf-pages/)
 - 📄 [JMPerez Blog (several posts)](https://jmperezperez.com/)
