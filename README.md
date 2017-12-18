@@ -20,13 +20,14 @@ Links and Resources to keep organized my personal interests
 
 ### JavaScript
 
+- 📄 [30 seconds of code (useful code snippets)](https://github.com/Chalarangelo/30-seconds-of-code)
 - 📄 [The Modern JavaScript Tutorial](https://javascript.info/)
-- 📄 [Curry (kutyel)](https://gist.github.com/kutyel/818937bda1bf1f513ff63e517342d194)
+- 📄 [Clean Code Javascript - ryanmcdermott, GH](https://github.com/ryanmcdermott/clean-code-javascript)
 - 📄 [Deploying ES2015+ Code in Production Today - Philip Walton](https://philipwalton.com/articles/deploying-es2015-code-in-production-today/)
+- 📄 [Curry (kutyel)](https://gist.github.com/kutyel/818937bda1bf1f513ff63e517342d194)
 
 ### Architecture, Patterns, Clean Code...
 
- - 📄 [Clean Code Javascript - ryanmcdermott, GH](https://github.com/ryanmcdermott/clean-code-javascript)
  - 📄 [Five Tips for Working with Redux in Large Applications - AppNexus Engineering](https://techblog.appnexus.com/five-tips-for-working-with-redux-in-large-applications-89452af4fdcb)
  - 📄 [Organize a Large React Application and Make It Scale - Jack Franklin](https://www.sitepoint.com/organize-large-react-application/)
  - 📄 [Re-Ducks & Ducks: Modular Redux Architecture](https://github.com/alexnm/re-ducks)
