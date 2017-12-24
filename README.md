@@ -7,10 +7,10 @@ Links and Resources to keep organized my personal interests
 ## To Read/Watch
 
 - [How to perform during life high spikes](https://twitter.com/cristinafsanz/status/932160488774995973)
+- [Can you afford it? Real world performance budgets](https://infrequently.org/2017/10/can-you-afford-it-real-world-web-performance-budgets)
 - 🎥 [CSS and the first meaningful paint - Patrick Hamann, CSSconf EU 2017](https://www.youtube.com/watch?v=4pQ2byAoIX0)
 - 🎥 [The Browser Hackers Guide To Instantly Loading Everything - Addy Osmani, JSConf EU 2017](https://www.youtube.com/watch?v=7vUs5yOuv-o)
 - 🎥 [JavaScript engines: how do they even? - Franziska Hinkelmann, JSConf EU 2017](https://www.youtube.com/watch?v=p-iiEDtpy6I)
-- 📄 [BEMIT: Taking the BEM Naming Convention a Step Further - CSS Wizardry](https://csswizardry.com/2015/08/bemit-taking-the-bem-naming-convention-a-step-further/)
 
 
 ### JavaScript
@@ -37,10 +37,13 @@ Links and Resources to keep organized my personal interests
 
 ### Progressive Web Apps, Performance & Optimization
 
-- 📄⭐️ [Treebo: A React And Preact Progressive Web App Performance Case Study - Addy Osmani](https://medium.com/dev-channel/treebo-a-react-and-preact-progressive-web-app-performance-case-study-5e4f450d5299)
-- 📄⭐️ [The Offline Cookbook - Jake Archibald](https://developers.google.com/web/fundamentals/instant-and-offline/offline-cookbook/) (for animations check [Jake Archibald's blog](https://jakearchibald.com/2014/offline-cookbook/))
+- 📄⭐️ Addy Osmani's PWA Series
+    - [Progressive Web Apps with React](https://addyosmani.com/blog/progressive-web-apps-with-react/)
+    - [Tinder PWA case study](https://medium.com/@addyosmani/a-tinder-progressive-web-app-performance-case-study-78919d98ece0)
+- [Twitter lite PWA case study](https://medium.com/@paularmstrong/twitter-lite-and-high-performance-react-progressive-web-apps-at-scale-d28a00e780a3)
+- [Can you afford it? Real world performance budgets](https://infrequently.org/2017/10/can-you-afford-it-real-world-web-performance-budgets)
+- 📄 [The Offline Cookbook - Jake Archibald](https://developers.google.com/web/fundamentals/instant-and-offline/offline-cookbook/) (for animations check [Jake Archibald's blog](https://jakearchibald.com/2014/offline-cookbook/))
 - 📄 [Handling client side app updates with Service Workers - @zachcodes](https://zach.codes/handling-client-side-app-updates-with-service-workers/)
-- 📄 [The PRPL Pattern - Addy Osmani](https://developers.google.com/web/fundamentals/performance/prpl-pattern/)
 - 🎥 [Production Progressive Web Apps With JavaScript Frameworks - Addy Osmani, Google I/O 2017](https://www.youtube.com/watch?v=aCMbSyngXB4)
 - 📄 [The Cost of JavaScript - Addy Osmani](https://medium.com/dev-channel/the-cost-of-javascript-84009f51e99e)
 - 📄 [Killing Old Service Workers for the Greater Good - Antonio Calapez](https://blog.hackages.io/migrating-a-service-worker-from-an-old-domain-to-your-new-domain-69236418051c)
