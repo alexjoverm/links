@@ -20,6 +20,7 @@ Links and Resources to keep organized my personal interests
 - 📄 [Clean Code Javascript - ryanmcdermott, GH](https://github.com/ryanmcdermott/clean-code-javascript)
 - 📄 [Deploying ES2015+ Code in Production Today - Philip Walton](https://philipwalton.com/articles/deploying-es2015-code-in-production-today/)
 - 📄 [Curry (kutyel)](https://gist.github.com/kutyel/818937bda1bf1f513ff63e517342d194)
+- 📄 [Code splitting in React](https://serverless-stack.com/chapters/code-splitting-in-create-react-app.html)
 
 ### Architecture, Patterns, Clean Code...
 
