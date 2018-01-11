@@ -20,7 +20,12 @@ Links and Resources to keep organized my personal interests
 - 📄 [Clean Code Javascript - ryanmcdermott, GH](https://github.com/ryanmcdermott/clean-code-javascript)
 - 📄 [Deploying ES2015+ Code in Production Today - Philip Walton](https://philipwalton.com/articles/deploying-es2015-code-in-production-today/)
 - 📄 [Curry (kutyel)](https://gist.github.com/kutyel/818937bda1bf1f513ff63e517342d194)
+- 📄 [Deploy Vue.js, SSR(Vuetify) on Production with Pm2 and Nginx - KashYap Merai](https://medium.com/@kamerk22/deploy-vue-js-ssr-vuetify-on-production-with-pm2-and-nginx-ec7b5c0748a3)
+
+### React
 - 📄 [Code splitting in React](https://serverless-stack.com/chapters/code-splitting-in-create-react-app.html)
+- 📄 [Re-Ducks & Ducks: Modular Redux Architecture](https://github.com/alexnm/re-ducks)
+- 📄 [Reset the state of Redux Store - Dan Abramov](https://stackoverflow.com/questions/35622588/how-to-reset-the-state-of-a-redux-store/35641992#35641992)
 
 ### Architecture, Patterns, Clean Code...
 
@@ -28,14 +33,7 @@ Links and Resources to keep organized my personal interests
  - 🌎 [Sorting.at: visual rep with big O notations](http://sorting.at/)
  - 📄 [Five Tips for Working with Redux in Large Applications - AppNexus Engineering](https://techblog.appnexus.com/five-tips-for-working-with-redux-in-large-applications-89452af4fdcb)
  - 📄 [Organize a Large React Application and Make It Scale - Jack Franklin](https://www.sitepoint.com/organize-large-react-application/)
- - 📄 [Re-Ducks & Ducks: Modular Redux Architecture](https://github.com/alexnm/re-ducks)
- - 📄 [Reset the state of Redux Store - Dan Abramov](https://stackoverflow.com/questions/35622588/how-to-reset-the-state-of-a-redux-store/35641992#35641992)
-
-### Production
-
- - 📄 [Deploy Vue.js, SSR(Vuetify) on Production with Pm2 and Nginx - KashYap Merai](https://medium.com/@kamerk22/deploy-vue-js-ssr-vuetify-on-production-with-pm2-and-nginx-ec7b5c0748a3)
-
-
+ 
 ### Progressive Web Apps, Performance & Optimization
 
 - 📄⭐️ Addy Osmani's PWA Series
